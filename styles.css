@@ -903,6 +903,19 @@ img {
   box-shadow: 0 10px 25px rgba(37, 211, 102, 0.5);
 }
 
+.btn-instagram {
+  background: linear-gradient(135deg, #833ab4, #fd1d1d, #fcb045);
+  color: var(--white);
+  border: none;
+  box-shadow: 0 6px 20px rgba(225, 48, 108, 0.35);
+}
+
+.btn-instagram:hover {
+  background: linear-gradient(135deg, #702f9c, #e01919, #e59d3b);
+  color: var(--white);
+  box-shadow: 0 10px 25px rgba(225, 48, 108, 0.55);
+}
+
 /* ==========================================================================
    FOOTER SECTION
    ========================================================================== */
